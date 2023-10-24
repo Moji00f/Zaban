@@ -59,4 +59,53 @@ I'd like to introduce you to someone. Thhisis Masseto
 ```
 Are you new here?
 ```
+وقتی به کسی معرفی شدیم از این عبارت ها میتونیم استفاده کنیم:
+```
+It's a pleasure to meet you.
+از آشنایی با شما خوشوقتم.
+It's nice/great to meet you.
+از آشنایی با شما خوشحالم.
+```
+از عبارت های کوتاه تر هم میتونی استفاده کنی که خیلی رایجن. مثلا:
+```
+Glad to meet you.
+Happy to meet/know you.
+Pleased to meet you.
+```
 
+حالا اگه با کسی آشنا شدی و اون زودتر از این عبارت ها استفاده کرد، در جوابش میتونی از اینا استفاده کنی:
+```
+Same here. منم همینطور
+```
+```
+You, as well.
+```
+منم همینطور (اینجا درسته از you استفاده میکنیم اما منظورمون اینه منم از آشنایی با "شما" خوشحالم).
+```
+
+Pleasure is all mine.
+باعث افتخار منه.
+```
+میتونیم از کلمه too هم استفاده کنیم و بگیم:
+```
+Nice to meet you, too.
+منم آز آشنایی با شما خوشحالم.
+کوتاه شده ش هم میشه:
+You too.
+```
+ویلو. و این هم دوستم بافیه. از دیدن هر دوتون خوشحالم.
+```
+Willow. And this is my friend Buffy. Nice to meet you both.
+```
+الان میخوام با چند تا از دوستام آشنا بشی 
+```
+Now, I'd like you to meet some friends.
+```
+خوشحالم که بالاخره میبینمت کیت. سلام منم از آشنایی با شما خوشحالم.
+```
+Nice to finally meet you, Kate. Hi, nice to meet you.
+```
+از دیدن هر دوتون خوشحالم.
+```
+Nice to meet you both.
+```
