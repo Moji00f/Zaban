@@ -109,3 +109,7 @@ Nice to finally meet you, Kate. Hi, nice to meet you.
 ```
 Nice to meet you both.
 ```
+باعث افتخار منه.
+```
+Pleasure is all mine.
+```
