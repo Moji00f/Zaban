@@ -40,4 +40,59 @@ What’s your phone number?
 Can you give me your phone number?
 ```
 
+ممکنه نیاز داشته باشیم یه جمله یا کلمه تکرار بشه.
+```
+Can you repeat it?
+Can you say that again?
+```
+سوال های دیگه مربوط به اطلاعات شخصی می تونه تاریخ تولد افراد باشه، در این صورت می تونید بپرسید:
+```
+What is your date of birth?
+What's her date of birth?
+```
+رایج ترین راه برای گفتن تاریخ تولد هم اینه که اول ماه رو بگیم، بعد روز و سال
+مثلا:
+```
+July 12th 1997
+```
+برای پرسیدن سن افراد هم از این عبارت استفاده میشه:
+```
+How old are you?
+```
+```
+Communication:
+ارتباط برقرار کردن
+```
+راه های ارتباطی ممکنه شامل روش های زیر باشه:
+```
+Write an email:
+ایمیل زدن
+Write a letter:
+نامه نوشتن
+Send a text:
+فرستادن پیام متنی مثل اس ام اس
+Video call:
+تماس تصویری
+Meet in person:
+ملاقات حضوری
+Social network:
+شبکه های اجتماعی
+```
+```
+و حضوری ببینمت.
+And meet you in person.
+```
+```
+How do you communicate?
+چطور ارتباط برقرار می کنی؟
+How do we communicate
+چطوری با هم ارتباط برقرار می کنیم؟
 
+```
+برای پاسخ به این سوال میشه گفت:
+```
+I usually text.
+من معمولا پیام میدم.
+I prefer to meet in person.
+من ترجیح میدم حضوری افراد رو ملاقات کنم
+```
