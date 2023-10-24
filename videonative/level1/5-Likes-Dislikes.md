@@ -49,4 +49,9 @@ Just relax and enjoy the music فقط آروم باش و از موسیقی لذ�
 ```
 I'm into leather. من به چرم علاقه دارم.
 I'm interested in you. من بهت علاقه دارم.
+He is keen on traveling
+I'm crazy about this song
+So, huge fan of this dish. پس، (من) طرفدار پر و پا قرص این غذام.
+I wasn't into sports.
 ```
+وقتی از چیزی نفرت داریم، از فعل hate استفاده میشه.
